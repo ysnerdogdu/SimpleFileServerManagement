@@ -1,0 +1,16 @@
+thundra/repository/IFolderRepository.class
+thundra/model/ComponentType.class
+thundra/model/BaseComponent.class
+thundra/model/dto/BaseComponentDto.class
+thundra/SimpleFileManagementApplication.class
+thundra/repository/IFileRepository.class
+thundra/controller/FolderController.class
+thundra/service/IFileService.class
+thundra/service/FolderService.class
+thundra/service/FileService.class
+thundra/model/dto/FileDto.class
+thundra/model/File.class
+thundra/controller/FileController.class
+thundra/model/dto/FolderDto.class
+thundra/model/Folder.class
+thundra/service/IFolderService.class

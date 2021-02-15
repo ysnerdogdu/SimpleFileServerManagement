@@ -1,0 +1,16 @@
+/Users/yasinerdogdu/IdeaProjects/SimpleFileManagement/src/main/java/thundra/repository/IFolderRepository.java
+/Users/yasinerdogdu/IdeaProjects/SimpleFileManagement/src/main/java/thundra/model/Folder.java
+/Users/yasinerdogdu/IdeaProjects/SimpleFileManagement/src/main/java/thundra/service/IFileService.java
+/Users/yasinerdogdu/IdeaProjects/SimpleFileManagement/src/main/java/thundra/service/FolderService.java
+/Users/yasinerdogdu/IdeaProjects/SimpleFileManagement/src/main/java/thundra/controller/FolderController.java
+/Users/yasinerdogdu/IdeaProjects/SimpleFileManagement/src/main/java/thundra/model/ComponentType.java
+/Users/yasinerdogdu/IdeaProjects/SimpleFileManagement/src/main/java/thundra/service/IFolderService.java
+/Users/yasinerdogdu/IdeaProjects/SimpleFileManagement/src/main/java/thundra/controller/FileController.java
+/Users/yasinerdogdu/IdeaProjects/SimpleFileManagement/src/main/java/thundra/model/dto/BaseComponentDto.java
+/Users/yasinerdogdu/IdeaProjects/SimpleFileManagement/src/main/java/thundra/model/BaseComponent.java
+/Users/yasinerdogdu/IdeaProjects/SimpleFileManagement/src/main/java/thundra/service/FileService.java
+/Users/yasinerdogdu/IdeaProjects/SimpleFileManagement/src/main/java/thundra/repository/IFileRepository.java
+/Users/yasinerdogdu/IdeaProjects/SimpleFileManagement/src/main/java/thundra/model/dto/FileDto.java
+/Users/yasinerdogdu/IdeaProjects/SimpleFileManagement/src/main/java/thundra/model/dto/FolderDto.java
+/Users/yasinerdogdu/IdeaProjects/SimpleFileManagement/src/main/java/thundra/SimpleFileManagementApplication.java
+/Users/yasinerdogdu/IdeaProjects/SimpleFileManagement/src/main/java/thundra/model/File.java
