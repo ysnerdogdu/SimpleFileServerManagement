@@ -69,6 +69,7 @@
             <version>1.18.16</version>
             <scope>provided</scope>
         </dependency>
+
         <!-- API, java.xml.bind module -->
         <dependency>
             <groupId>jakarta.xml.bind</groupId>
