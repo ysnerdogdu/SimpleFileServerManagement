@@ -20,3 +20,14 @@ In order to create sample data, generate db sql and populate sql are provided (.
 ### Libraries and Plugins
 - Lombok - Never write another getter or equals method again, with one annotation your class has a fully featured builder, Automate your logging variables, and much more
 
+
+### Compile
+```
+mvn clean
+mvn install
+```
+
+### Run
+```
+mvn spring-boot:run
+```
