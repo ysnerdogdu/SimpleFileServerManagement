@@ -1,9 +1,10 @@
 # Simple Server File Management Service
 
 Simple Server File Management service finds and manages files on server.
-If a valid file/folder is not found, HttpStatus.NOT_FOUND result is returned.
 It also finds sub-components of folder such as files and sub-folders.
-It deletes files and folders (with its sub-components) from database
+If a valid file/folder is not found, HttpStatus.NOT_FOUND result is returned.
+It deletes files and folders (with its sub-components) from database.
+In order to create sample data, generate db sql and populate sql are provided (./kit)
 
 ## Technology stack & other Open-source libraries
 
